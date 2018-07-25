@@ -1,0 +1,469 @@
+
+========================================================================================
+Principal reasons for changing things from the books:
+========================================================================================
+0. Natural consequences of other changes
+1. Abuse actually affects your psychology (Harry's treatment at home; the Cruciatus Curse)
+2. Adults aren't nice to neurodivergent people (e.g. Luna)
+3. People's physical apperances aren't caricatures of their personalities; people aren't caricatures in general
+4. There's neurodivergence everywhere (I could add less-observable attributes to other characters freely)
+
+Other reasons:
+5. Any details I want to change to make the story cooler, especially ones that fuel my big plot (Harry/Luna as Dark Lord and Dark Lady, vs. Hermione as the Big Damn Hero)
+6. Love isn't a super-power
+
+
+
+========================================================================================
+Character verbal gimmicks:
+========================================================================================
+(Oct 18 2011)
+  Harry: *** Never asks a question. *** Uses a lot of "I" statements. Frequently doesn't understand what other people say. Rarely uses a word with more than three syllables. Refers to spells by their incantations (e.g. "He cast Crucio" or "He Crucioed that person")
+  Draco: *** Never makes a direct statement. Never says "I". *** Usually asks rhetorical questions; think of using a lot of imperatives, but then converting them into rhetorical questions ("Goyle will be there with us, won't he?" to mean "Goyle, be there.") Instead of saying "I" or "me", find a way to use "we" instead (not the royal we, just find a way to talk about his group instead of him individually). Refers to spells by their formal names (e.g. "He cast the Cruciatus curse on that person")
+  Hermione: Almost always uses precise, formal grammar. Refers to spells by their formal names, except the Cruciatus curse, which she calls "the torture curse".
+  Luna: Never acknowledges that the situation is tense - e.g. a friendly "Hello, Harry!" during a battle. Maybe addresses everyone by their first name (maybe not the professors while they're still at Hogwarts?) Doesn't refer to spells, just their effects (instead of "He cast Crucio on that person", "He tortured that person").
+
+========================================================================================
+Character visual gimmicks:
+========================================================================================
+(Oct 18 2011)
+  Luna: Always very pale, serene, with a slight smile - even when talking about things that are truly horrible. Doesn't move quickly; the type of person who makes one action per round (as opposed to making lots of actions on one round and catching one's breath on others.). Sits/stands in ways/places that are unconventional but perfectly logical. She's always doing something cute and/or intensely beautiful.
+  Harry: The glasses, the lightning scar, the fatness. Also a small scar next to his mouth (courtesy of Dudley's gang). Usually hunched over when he's sitting. Holds his arm bent when he casts spells.
+  Draco: Always has "proper" posture. If he's with a 'friend', the friend should be visually between him and anyone else. Holds his arm straight when he casts spells.
+(noted Dec 10 2011, though I'd thought of most of this a while before)
+  Hermione: Regal bearing except in fights, and efficient gymnastics in fights. Preferably drawn in front of a solid black or bright-colored background. Flies by magic (wand only) much of the time, esp. instead of taking stairs. As an Auror, wears a trenchcoat or something.
+
+========================================================================================
+Lettering:
+========================================================================================
+(noted Jan 21 2012)
+  Luna: All lower case, rounded letters.
+  Harry: Jagged letters, improperly mixed case.
+  Hermione: Standard case, letters with serifs.
+  Draco, Snape, Lucius: Standard case; lowercase letters are small caps.
+  
+========================================================================================
+Arc words:
+========================================================================================
+  "Voldemort's children", obviously - "[They|we] are truly Voldemort's Children" to appear twice
+  "How did it come to this?"
+  "No one will protect you. No one will stand up for you. No one will believe you."
+Other echoes/repetitions:
+  Nov 30 2011:
+    not doing what's right, doing what's necessary (Lily and Harry)
+    Voldemort as an un-acted-upon actor (Luna and Hermione, at least (Hermione says it in her "Harry is no Dark Lord" speech))
+    People answering "Did Voldemort's influence end when he was destroyed?"
+  Dec 1:
+    "You can't hide the truth from me" (Hermione to Harry, Harry to Draco. Lily to James ("...from him" about Voldemort).)
+  Jan 29:
+    "Even his friends/allies were/are afraid of him" (Young Riddle, Voldemort, and Harry)
+
+
+
+========================================================================================
+Chapter title ideas:
+========================================================================================
+"The Boy Who Killed", the first chapter (title appearing under the full-page Harry)
+maybe? "The Harshest Judge", Hermione's description of herself after Harry accuses her of always being approved by others
+
+
+========================================================================================
+GIMP notes
+========================================================================================
+
+Use pencil/fill to draw mundane things, airbrush to draw magic.
+Also airbrush black to make shadowyness, which makes a fake sense of sharp lighting. Nonblack airbrushing usually shouldn't be used for nonmagical things.
+
+Non-magic, non-hilight things should preferably have <50 saturation AND <50 value.
+
+Standard dialogue shadow creation:
+  Duplicate dialogue layer. Put the duplicate beneath the dialogue layer and call it "dialogue shadow".
+  Unmark alpha channel and fill layer with black.
+  Gaussian blur [s]36[/s] 30 pixels.
+  Threshold alpha at threshold 0 (anything with any alpha becomes full black, only totally transparent areas stay that way)
+  Gaussian blur [s]40[/s] 35 pixels.
+  Set dialogue shadow layer to 50% opacity. (This is a fairly optional bit depending on how much the dialogue needs the shadow.)
+
+
+========================================================================================
+== EVENTS LIST ==
+========================================================================================
+
+These are confirmed things that will appear in visual representation, sorted only by the date I added them. Each "event" is a contiguous block of stuff, preferably not interrupted unless I cut it together with another scene for artistic reasons. Scene prereqs (in reader time, not in-world time) are listed before the scene, if I've figured them out. QUESTIONS raised by the scene are also listed specially, because questions are important to the theme.
+
+(Added Jan 21 2012:)
+PREREQ: (9), "I will be dark lords with you"
+PREREQ: (12), know why Draco is with Harry
+1) At the end of a chapter, Hermione demands Harry's account of the Hogwarts attack. In the next, Harry tells it.
+    It begins with an argument between Draco and the others about what to do with the Slytherin torturers.
+    Probably interleaved:
+      Harry goes to Dumbledore's office, defeats Dumbledore. The portraits yell at him, so he sets the entire office on fire (Fiendfyre? I have mixed feelings). It burns Dumbledore's hand (the one that was cursed in the books - his right).
+
+PREREQ: (1), the Hogwarts attack
+2) Someone asks Dumbledore about his burned hand, and he says "I have been very foolish."
+
+3) Hermione fights the troll. She panicks until it hits her, then she realizes she'll die if she doesn't act, and stuns the troll easily.
+
+PREREQ: (8), the tale of Voldemort (because it asks "how was voldemort defeated" and this answers it)
+QUESTION: What is Voldemort's motivation?
+4) Voldemort attacks Godric's Hollow. Harry narrates this. The scene begins with Lily and James arguing; Lily found an ancient spell to sacrifice someone for protection for a family member... anyone who casts a curse on the protected individual "while in the houses of his fathers" will have the curse "returned a thousandfold". James wants to be the sacrifice; Lily wants him to run away while she sacrifices herself. "You're not an Occlumens. You can't hide the truth from him". Voldemort defeats James and tries to read his mind, so Lily kills him and uses him as the sacrifice. (Or is that too cruel? Hmm.) Then Lily fights Voldemort and pretends to be desperate, and goads him into forcing her out of the way to attack Harry - "Please don't kill [Harry], kill me instead". Voldemort predictably attacks Harry. "Hmm... I've never exploded a baby before. Confringo!" Then the entire house explodes.
+
+PREREQ: (4), the attack on Godric's Hollow (because we want that to be established, but it's already in canon so running this scene won't excite the reader to hear about that one)
+5) Maybe Hermione's narration right after (4): An DMLE wizard investigating at Godric's Hollow finds Voldemort's time-twister and ends up transported six years later. And that moment six years later is the least later bound on Voldemort's actions.
+
+(Should be early, because it's a "harry figuring himself out" thing)
+6) Harry argues with Hagrid. Harry has just found out that Dumbledore willfully placed him with the Dursleys. "Dumbledore used you!" "Dumbledore hid [the dursleys' abuse] from you!" Hagrid tells Harry not to be critical of Dumbledore, and kicks him out of his hut. "I will remember you said one man's good name means more than ten years of abuse." Harry slams the door on the way out and wants to Incendio the hut, but fights down the urge.
+
+PREREQ: (9) "I will be Dark Lords with you"
+PREREQ: (8); this one needs to be the echo because it's an acknowledgement and the other's an announcement
+PREREQ: (1), this has more impact if it's after you see lots of what they've done
+7) After HDL are a team, Harry learns something about how their actions echo Voldemort's, and he says (to them) "We are truly Voldemort's children".
+
+QUESTION: What is Voldemort's motivation?
+QUESTION: How was Voldemort defeated?
+8) The "Voldemort's children" speech. Cornelius Fudge delivers this, naming HDL public enemy number one. Hermione disagrees. "The opinion of the Auror Office could not be more different" "Harry Potter is no Dark Lord. He is merely a self-aggrandizing serial killer motivated by petty revenge against those he believes have wronged him." Then Hermione tells a brief overview of the history of Voldemort, to support her position.
+    Voldemort was a terror because nobody could kill him and nobody could predict what he would do next. The Killing Curse simply hit him with no effect. A great Legilimens managed to look him in the eye, but only got psychic backlash. They knew about his Horcruxes, but he was always there to defend the Horcruxes.
+    Someone heckles Hermione about saying "torture curse" and she explains her policy. Cut to Hermione in private with someone else: "In private, we can say PTSD; muggle scientists are far ahead of us in understanding the human mind. But one would hardly appeal to the authority of a muggle in front of [the heckler's name]."
+
+9) Luna gives her speech to Harry about how Dark Lords are unmoved movers. "There is a position in Wizarding society that [has power with no checks or balances]... You won't like it. (Tell me!) Dark Lord." Harry is mad about that. Luna makes the offer "[if you ever change your mind...] I will be Dark Lords with you".
+
+PREREQ: (8) "Harry is ... motivated by petty revenge"
+QUESTION: What is Harry's motivation?
+10) Harry says "I do not kill out of revenge".
+
+PREREQ: (8) so that we see Voldemort's psychic-backlash first
+PREREQ: (12) so that we're told about Voldemort's unfeelingness first
+PREREQ: (17) for similar reasons
+PREREQ: (19), Harry's hatred of the Memory Charm
+PREREQ: (1), this answers why harry is being a dark lord
+11) "You've been using the Memory Charm [on yourself], haven't you?" ""Luna tells Harry that the Slytherins torture them and then erase their memories. "My memories can't be erased. It's like rubbing an inked parchment with a muggle eraser." Harry tries to Legilimens her about it, but gets psychic backlash. She explains her mental difference - all her thoughts and feelings are super intense, so he can't handle it. And she burns out easily - a lot of feelings that she used to have, she doesn't have any more (when her mom died, her sadness burned away, so now she's never sad.) Then Harry asks about whether she's told the professors. She has, of course; panels illustrate her going to McGonagall, and McGonagall accusing her of telling obvious lies. Harry is furious ("I'll kill her!") but Luna points out that everyone else is the same. Harry swears to bring down the entire institution, and accepts Luna's "dark lords" pact.
+   Then Harry turns his eye inward and sees some of what's been done to him - he'd even tried to Avada Kedavra himself, but fails.
+
+PREREQ: (14), so that the reader is familiar with Harry's legilimency.
+PREREQ: (5), so that the reader won't think I forgot the temporal issues.
+PREREQ: (21), this sequence makes the most sense in chronological order.
+QUESTION: What is Voldemort's motivation?
+12) Draco goes to Harry. He has been rejected by the other Slytherins and probably tortured. He begs Harry to forgive him. Harry doesn't want to. "[epic description of the cupboard under the stairs ... sometimes in dreams I am in that cupboard again] and all that is nothing - NOTHING - compared to that curse, the Crucio curse! And you'd use that on another person! Why should I forgive you!"
+     Draco (crying obvs) tells Harry about how he was tortured by Voldemort in his childhood. Panels cover: Voldemort asking to see Draco (Narcissa begs him not to, Lucius chides her to respect the Dark Lord "you are at his mercy; mind how you speak"; while V's with Draco, Lucius tells Narcissa (emptily) that things will be okay); "since then, Father buys me anything I want... I don't even like it" (panel with Lucius paying, and the two looking away from each other); Voldemort's laugh - Draco agonizing over the fact that "it was like he was laughing because he thought someone expected him to laugh", ("he liked it" vs. "he didn't even care"). Make sure I put the blue-shifted Time-Twister in clear view on Voldemort's neck
+
+13) Hermione's assistant comments on her Time-Twister being blue-shifted. "You haven't been using it...?" "No; every Time-Twister resonates with the others. Somewhere, one is being overused."
+
+Noted Jan 24:
+
+14) The Harry/Snape confrontation from the first book. On the first question, Harry says "I don't know"; Snape replies "That will be I don't know SIR", which Harry doesn't understand. Harry answers "I don't know" to the second question too (notes say "didn't understand what Snape wanted" "thinks Harry is being defiant"); to the third question, Harry Legilimenses the right answer. Cut to Snape talking to Dumbledore about how Harry's a natural Legilimens and should be trained.
+
+PREREQ: (14)
+15) Snape teaches Harry Legilimency by letting Harry read his mind. He lets Harry see James bullying him. "I also learned that you showed me that memory on purpose. To show me that James Potter was a bully. That's one thing you and I have in common... having no love for James Potter."
+
+16) Someone specifically uses the word "heal" about Harry. Harry replies with a speech about how it would be wrong for him to "heal" into a productive member of an evil society. "The world doesn't need me to heal... it need me to tear it out at the roots."
+
+PREREQ: (8) you need to be familiar with Voldemort
+17) Someone telling the story of Tom Riddle at Hogwarts. Probably Dumbledore (maybe when Hermione approaches him to sign Luna's death warrant?)
+
+PREREQ: (9) you need to know Luna's a HP ally
+18) Hermione comes to Dumbledore to ask him to sign Luna's death warrant. "The Minister and the other Wizengamot members have already signed" "I've never signed away a life" "If you don't do this, you may be signing away dozens more". Dumbledore looks very broken when he signs. He signs with his burned hand (METAPHOR!!!!)
+
+Noted Jan 28:
+
+QUESTION: Why does Harry hate the Memory Charm?
+19) Harry tells about how he killed Lockhart and why. "I will not forgive anyone who casts Obliviate on another person." "Why do you hate the memory charm so much?" "... There are some questions your truth potion can't compel me to answer. That is one of them."
+
+20) Harry's first summer with the Dursleys. "That's how I learned that it's good for people to fear me."
+
+PREREQ: (20); this sequence makes the most sense in chronological order.
+PREREQ: (14), reader be familiar with Harry's legilimensy.
+21) Harry threatens to kill Draco if he doesn't stop bullying people. He Legilimenses Draco ... "You're afraid of me". Draco in the Slytherin common room gets bullied over being afraid of Harry.
+
+PREREQ: (8), this is a better second example than first example of Hermione's justice-seeking.
+22) Hermione uses her leverage as the best auror ever to get the Dementors out of Azkaban. She refuses to accept the post while they're there, and gets two senior Aurors to threaten to resign at the same time.
+
+23) Harry has lost some points for Gryffindor; Gryffindor bullies try to mess with him in the common room. Hermione stops them.
+
+24) Hermione catches Pettigrew as Ron's rat and captures him. Luna is quoted as saying, "I'm not surprised. Everyone knows 20% of Hogwarts pets are actually unregistered Animagi. Stalkers and overprotective parents, mostly."
+
+Noted Jan 29:
+
+25) Harry describes his introduction to Hogwarts, mentioning getting lost in the corridors, the mysterious places in the corridors he was afraid to go near, and a bunch of other stuff. In the great hall, we see Luna yelling at the other people. "Don't eat it! All Hogwarts food is made by a secret slave race hidden in the heart of the school!"
+
+26) Hermione asks how Harry, in the name of stopping the suffering caused by the Cruciatus curse, can justify causing suffering to the families of the people he's killed - which is arguably greater, since most of them would rather be tortured than lose a family member. Harry replies (less cleverly than I'll state it here...) that to use that argument, either she has to accept that it was wrong for Lily to kill Voldemort, which she won't do ("The only difference between [name] and Voldemort is that Voldemort hit people who could hit back."), or accept that it's relatively okay to kill people just because nobody loves them, which she also won't do. "Nobody loves me, Granger. Why don't you just kill me?"
+
+27) Harry meets Luna. She says she likes/sympathizes with him, and gives a specific reason; the reason is strange.
+
+28) TONKS: Why don't you just use the truth potion and make him spill his guts? GRANGER: blah blah too much trust in truth potions. A truth potion can only make someone answer the questions you ask; the questions you don't think of will go unanswered. I am not so much of a fool as to think that I know all the right questions.
+
+========================================================================================
+=== PROPOSED STRUCTURE ===
+========================================================================================
+
+This is very mutable.
+
+REMEMBER: EVERYTHING IS THE MOST DRAMATIC, IMPORTANT THING IN THE UNIVERSE
+
+Title page
+Description/warning page
+(Hermione and her assistant go down to see Harry.)
+Chapter 1: The Boy Who Killed
+  Establishes the Harry/Hermione interrogation dynamic.
+  "They are truly Voldemort's children" speech.
+  Harry DOESN'T say what motivates him yet, so that the disagreement
+    in the VC speech hypes up the question of what Harry really did.
+    
+Chapter 2: Castle of Indulgence and Torment (Gloss and Pain? Gloss and Fear?) [Cover: the castle, with metaphors drawn on top of it]
+  Harry describes his experience entering Hogwarts - as a summary of sorts, of the first year?.
+    Getting lost, and also being afraid of some halls,
+    Failing horribly at McGonagall,
+    Getting bullied by Draco & co,
+    Facing Snape (legilimency thing)
+  Skip forward to his second year:
+    Meeting Luna,
+    it ends with him getting in trouble. He loses lots of points for Gryffindor, the Gryffindors bully him,
+      Hermione defends him, and has to go to see Dumbledore.
+      
+Chapter 3: [Needs a title] [Cover: Dumbledore and Harry, as a yin-yang]
+  Dumbledore's not in his office yet. Harry gets in his Pensieve and sees:
+    Dumbledore delivering him to the Dursleys,
+    and other things
+  Dumbledore returns. Harry rages at Dumbledore a bunch.
+  Unordered:
+    Harry goes to Luna, complaining of having no support and feeling unable to change anything (hardly in those words). Luna gives her "dark lords with you" speech. Harry rejects it and leaves her.
+    Harry goes to Hagrid and argues with him about Dumbledore.
+  Harry wonders if there's anyone left who can help him. Then Draco attacks. That's where Harry threatens his life.
+...
+
+chapter boundaries?
+  "Having no love for James Potter" - Snape is shocked. Harry tells the story of the battle in Godric's Hollow.
+    "Just another two pairs of hands shoveling dirt onto my living grave."
+
+...
+  Harry metaphorically wrestling with himself in some private place, perhaps?
+  Suddenly, Draco bursts in!
+Chapter ?: The Cupboard Under the Stairs
+  The Harry/Draco reveal.
+...
+  Hermione demands a full account of the Hogwarts attack.
+Chapter ?: The Purge of Hogwarts
+...
+  Hermione offers Dumbledore the death warrant to sign.
+Chapter ?+1: The Riddle of the Past
+  Dumbledore tells about what he knew of Tom Riddle, and rambles on his hopes and fears.
+  Hermione asks him about his hand.
+  Near the end, he signs the death warrant.
+  Hermione asks Harry, how did you get from telling Luna you'd never be a Dark Lord, to this? Harry has zir mouth covered by a hand of Voldemort; the Voldemort says ze won't tell. Granger offers to tell instead...
+Chapter ?+2: The Harshest Judge
+  Color scheme: Alive. 
+  Hermione's tale of her own past.
+  Harry sees some of himself in Hermione, and says that he'll tell Hermione the things he's been hiding.
+Chapter ?+3: Memory [Cover: Luna and Draco at the top of a cliff, Harry at the bottom, in a fetal position.]
+  The big reveal.
+  Begins with Luna and Draco chasing down Harry, who's refusing to talk to them. He says he can't deal with it. They say he scares them, but they care about him and so they need to tell him this.
+  See event 11.
+  Harry drops the VC line.
+  Back in the present, Harry delivers a summation of his differences from Hermione.
+  The Time-Twister starts burning Hermione and she takes it off.
+  Luna arrives. "hello, hermione! we win."
+Epilogue:
+  Luna and Hermione have a pleasant chat.
+  They release Harry and he reads Hermione's mind, and judges her acceptable. ("draco was tortured here! and she knew it! she tried to stop it.") Luna tells them to shake hands.
+  Luna leaves with Harry.
+  They meet up with the haggard Draco in a park in the rain. Draco hugs and collapses on Harry's shoulder.
+  Final scene.
+  
+
+
+
+========================================================================================
+Specific page notes (to be included in the comic annotation on the website)
+========================================================================================
+Page 2: If you're a <i>Harry Potter</i> fan, you might be thinking "Aha, ze wrote 'truth potion' for the benefit of people who aren't familiar enough with the series to know the name 'Veritaserum'". If you're a bigger fan, you might be thinking "But Veritaserum is as clear as water, and that potion isn't!" That's right! The real reason I don't say "Veritaserum" is because this is actually a modified version of Veritaserum that Hermione invented - it is similar, but its action is unaffected by the Veritaserum antidote, which is a distinct tactical advantage.</p><p>A more cynical person might speculate that Hermione invented it to circumvent legal restrictions on the use of Veritaserum, but the law usually refers to truth potions in general, and Hermione is in a position of enormous influence and can get the necessary warrants easily.
+Chapter 1 cover: I won't have harry misspell words after this page; the lettering is clear enough
+Chapter 1 page 1: You know you're reading an Eli Dupree comic when you enter two nested narrative frames on the same page.
+Chapter 1 page 2: Don't worry, the gratuitous small caps will be over soon. Cornelius Fudge speaks in small caps because he's pretentious.</p><p>Unlike in the original series, people in <i>Voldemort's Children</i> aren't afraid to say the name "Voldemort". I can't deny that this is partially because I found that cultural convention weird and hard to believe, but the bigger reason is that the original series has fear (and overcoming one's fear) as a major theme, while <i>Voldemort's Children</i> is about other things. Without that theme to justify it, the convention would just be a confusing detail.
+
+
+
+
+========================================================================================
+Disorganized notes, by date made:
+========================================================================================
+
+- The Dursleys' physical appearances are complete caricature; I should ignore/replace them (3)
+
+-
+"Go -- cupboard -- stay -- no meals,"
+"...he couldn't be sure the Dursleys were asleep yet. Until they were, he couldn't risk sneaking to the kitchen for some food."
+(interpretation: he is routinely denied food as a punishment)
+
+- The Dursleys hate wizards; they are constantly telling Harry he's an abomination (in various subtle ways)
+
+- They encourage Dudley (and presumably the other children) to beat Harry and see themselves as superior to Harry
+
+- Hagrid doesn't know that Harry was abused at home. Presumably, Dumbledore is the only one who knows. Idea: Harry tells Hagrid "Don't you feel betrayed? He told you you we're taking me to where I'd be safe. He used you." (Hagrid would be more likely to say "Enough! Don't talk about Dumbledore like that!" than to actually think about it.)
+
+- all Hogwarts pupils have black robes (with name tags, apparently); Dumbledore has purple robes
+
+- "There's not a single witch or wizard who went bad who wasn't in Slytherin. You-Know-Who was one." Hagrid is probably exaggerating here.
+
+- The twinned wands - holly vs. yew, 11" vs. 13.5".
+"the Dark Lord will mark him as his equal". Does Harry get the twinned wand because he's marked by Voldemort? Or just because he's similar to Voldemort?
+"The one with the power to vanquish the Dark Lord" - proposes that Voldemort failed to kill Harry because Harry has some innate power
+Meh... I bet Voldemort faked his own death. The Killing Curse shouldn't just fail, that's ridiculous. And babies don't have superpowers. I guess maybe Voldy made Harry into a Horcrux, so Harry got part of Voldy's soul, and that got killed instead of Harry. Which would mean Harry doesn't have part of Voldy's soul anymore. Ugh.
+I think Voldemort shouldn't appear in the story... maybe he was killed already, maybe horcruxes don't actually exist, maybe they do but Aurors destroyed them all.
+Lily could have actually cast a spell that made her sacrifice protect Harry... (6; having her cast a spell actually is the *most* similar to the original story that I can get, and also makes her less of a "useless sidekick female" type character)
+
+- Type 1: Harry isn't outgoing and polite at King's Cross. He stays to himself and only meets the people who come to gawk at him.
+
+-
+  "Hungry, are you?"
+  "Starving," said Harry, taking a large bite out of a pumpkin pasty.
+  (earlier) He had never had any money for candy with the Dursleys
+We see here that Harry is already getting as much (unhealthy) food as he can get, even in canon!
+
+- Crabbe and Goyle are absurd. Should I just forget that they exist?
+
+- Hogwarts is seriously lit by everburning torches? Something to remember for when I draw it. And the great hall's ceiling (great imagery for what I'm currently imagining as the final image...)
+
+- "He had always been last to be chosen, not because he was no good, but because no one wanted Dudley to think they liked him." Also, should I change the names "Dudley" and "Dursley"? They're particularly cringe-worthy examples of caricature-type names
+
+- "Malfoy swaggered forward when his name was called and got his wish at once: the hat had barely touched his head when it screamed, "SLYTHERIN!" Malfoy went to join his friends Crabbe and Goyle, looking pleased with himself." Why would Malfoy be happy with who he is, even in canon? This could be Harry reading Malfoy incorrectly - maybe Malfoy puts on "smug superiority" as a mask of sorts.
+
+- "You could be great, you know, it's all here in your head, and Slytherin will help you on the way to greatness, no doubt about that" BULL SHIT
+
+- "Dear Harry,
+I know you get Friday afternoons off, so would you like to come and have a cup of tea with me around three?
+I want to hear all about your first week. Send us an answer back with Hedwig.
+Hagrid"
+How should my Harry respond?
+
+- "Harry had never believed he would meet a boy he hated more than Dudley, but that was before he met Draco Malfoy." My Harry doesn't hate Draco any more than anyone else...
+
+- Canon Hermione is terrible at broomsticking. My Hermione should be good at it (3, 5); I think she'll be the Gryffindor Seeker. Harry might still be good at it, but he isn't recognized for it (0) because he doesn't challenge Malfoy for the Remembrall (1), and because the professors don't look for that skill in him (2).
+
+- My Hermione skips at least one year at Hogwarts, uses the Time-Turner from year 3 on, aces all her N.E.W.T.s, and becomes the youngest Auror in history. She's highly skilled at nonverbal magic, wandless magic, resisting the Imperius Curse, 
+
+- Time travel is ridiculous. I want to keep Hermione's "stretching out time to take extra classes" thing, but it shouldn't be classic time travel, otherwise it would be much too useful in combat.
+
+- "Professor McGonagall pointed them into a classroom that was empty except for Peeves, who was busy writing rude words on the blackboard." Go go go Peeves! He just annoys people, doesn't torture or kill them or even behave all that abusively - which makes him a better person than pretty much all the main "good guys".
+
+- My Harry is a natural Legilimens (1, 5). Snape recognizes this (Maybe Harry answers his third hazing-question correctly by reading his mind a little?) and wants to train him at it. I could imagine Dumbledore arguing against that, out of concern for Harry, while Snape insists on the grounds of the prophecy - Harry, says Snape, will need all the skill he can get if he hopes to rival Voldemort's mind. (Also: he could be dangerous to everyone if he wasn't trained to control it properly.) Little does Snape know, Voldemort really is dead for real; the prophecy is a little misleading on that.
+
+Around Nov 16 2011: When Luna's telling him about the torture/obliviate thing, Harry tries to look into Luna's mind, and gets a lot of psychic backlash. "You never look me in the eye!" ... Luna explains that her thoughts and feelings are so intense that it's hard for anybody to handle them. Earlier in the story, we saw the same kind of psychic backlash when someone tried to Legilimens Voldemort... an observant reader will pick that up
+
+Nov 24 2011: Realized a big mystery for the reader: What's the true nature of Voldemort? Why did HE do what he did? I should ask this question specifically near the beginning of the story, so that the reader will wonder about it.
+
+
+
+
+Nov 30 2011: Fudge or somebody: "They are truly Voldemort's children." Granger: "That is not the opinion of the Auror Office. Harry Potter is merely a self-aggrandizing serial killer, motivated by petty revenge against people who have hurt him." Some other time, Harry: "What I did to Dumbledore was a ... mistake. I do not kill out of revenge."
+
+
+Dec 1:
+
+"Hello, Jevai!" (or whatever zir name is)
+  "G-get out of here!"
+"Don't worry! I'm the one who killed all your friends. I'm going to kill you too. So there's nothing to be afraid of!"
+
+[Large panel] "I will be Dark Lords with you" (I've decided that having Luna say "Dark Lady" right away is too gendery)
+
+Harry loses lots of points for his house, and the other Gryffindors bully him for it. Maybe Hermione defends him?
+
+
+
+Dec 10:
+
+Harry/Luna and Harry/Draco are both emotional relationships, but not romantic or sexual.
+
+Draco to Harry: "Things happened here that you don't need to know." Possible echo? (I could imagine Hermione, Lily, Snape, McGonagall saying it. Harry wouldn't, because it's counter to his personality - he's more likely to angrily speak the truth than to hide it. Dumbledore's personality lines up with it, but he wouldn't actually *say* it.) When Draco says it to Harry, it's an example of the first note here (they're interacting on an emotional level).
+
+The chapter before the Hogwarts-attack chapter ends with Hermoine demanding "Tell me exactly what happened ... don't leave out any details" (for the cliffhanger attributes, and for the way it reifies the narration of the hogwarts attack)
+
+
+
+Dec 18:
+Approx. location in story for different events:
+
+- 1/4: Revelation of Luna as Harry's ally, "I will be Dark Lords with you"; "They are truly Voldemort's children" speech and Hermione's response (the tale of Voldemort); Harry explaining why he killed Lockhart (we see his hatred of the Memory Charm but not the reasons)
+
+- 1/2: Details of the Hogwarts attack; history of Draco's relationship to Harry
+
+- 3/4: Revelation of the Memory Charm bullies, Luna's neurology, and Harry's decision to become a Dark Lord
+
+Probably early:
+ - The tale of Lily and Voldemort
+ - Snape "he's a natural legilimens"
+ - Harry's Sorting
+ 
+Probably late:
+ - Hermione defending Harry when Gryffindors attack him for losing points
+ 
+Dunno:
+ - Ollivander
+ 
+ 
+Jan 21:
+Quirrel is just some jerkass who wants the Philosopher's Stone so he can get money and life. As in canon, he lets the troll in as a distraction. Hermione panicks until it hits her, then she realizes she'll die if she doesn't act, and stuns the troll easily.
+reference for Harry speechifying: HP&tSS, page 270
+
+Feb 5:
+Reference illustrations:
+The Fat Lady: 1:143
+Quirrel: 1:288
+Lockhart: 2:42
+Dumbledore: 2:327, 5:820
+Dementor: 3:69
+Marauder's Map: 3:183
+Crookshanks: 3:252
+Time-Turner: 3:386
+Penseive: 4:581
+Prefect badge: 5:152
+Luna: 5:179, 5:397
+Cho, in case I want to use her: 5:543
+Nice view of Harry running from behind: 5:570
+Wireless: 7:424
+Bellatrix(?): 7:446
+Gringotts doors: 7:519
+
+5:530, desc. of Legilimency
+5:648, Snape's memory
+5:824, Harry breaking down
+
+Luna, e.g. at the bottom of 5:566, does things that are socially inappropriate/unexpected - I think she just has no inhibitions against doing that
+
+Time twister visual metaphors: The spiral rotates clockwise as you move outwarts, so if you try to turn back time, you are only winding it tighter. Except it's not a clock, it's an hourglass, and the hourglass is empty, to remind you that no matter how fast you go, you will always be too late.
+
+"membrana relecto" is bad latin for "re-read this parchment" or maybe "with this parchment having been re-read"
+
+Mar 16 2012:
+Chapter three:
+Harry sees Dumbledore's memories, runs to Hagrid, fights Hagrid;
+Harry leaves Hagrid and hides in the room with the mirror of Erised, where Dumbledore comes; Harry fights Dumbledore, then they part...?
+"With that hanging over me..." time passes...
+Harry runs into Draco (I know what this looks like)
+Snape, at a routine Legilimency lesson, "You've used Legilimency on one of my students. ... I know I can't stop you, but you must be more subtle about it. If you are not careful, there /will/ be complaints. ... Now, sit down." Harry must try to read Snape's mind "as usual".
+Harry sees Snape's memory of James bullying, counters with zir own memory of James and Lily fighting Voldemort, end of lesson!
+Harry goes to Luna?
+
+
+Mar 17 2012:
+  We need to include Harry's revenge against Dudley later - maybe in a/the discussion of Harry's morality 
+  
+
+Mar 18 2012:
+  "You said you'd kill me IF [I kept bullying people]... nobody else ever offered me a way out of what they were going to do to me."
+
+
+May 7 2012:
+  Approx. timeline:
+1990: Harry's first year
+
+1981: Voldemort, Lily, James die
+1980: Harry born
+1977: Lily and James and Snape graduate
+1975: James bullies Snape
+1973: Tom Riddle graduates, becomes Voldemort, begins reign of terror
+1970: Lily and James and Snape enter Hogwarts
+1966: Tom Riddle enters Hogwarts
+1930: Dumbledore born
+
+
+June 5:
+  "Memory" could begin with Draco and Luna talking about how Harry thinks he's protecting them, but really they are the ones who need to protect him.

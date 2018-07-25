@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg12466"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="New document 29">
+  <defs
+     id="defs5498" />
+  <sodipodi:namedview
+     inkscape:window-height="618"
+     inkscape:window-width="641"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.454"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:current-layer="layer1"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="200"
+       id="guide5596" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 501.40625 191.53125 C 493.61492 233.90058 475.69323 306.12235 461.34375 389.59375 C 422.70119 388.71282 382.023 386.55728 337.78125 382.9375 L 339.03125 459.90625 C 377.75321 462.22958 414.23288 463.90484 450.09375 464.71875 C 439.6804 547.56889 435.87255 635.563 449.96875 713.5 C 459.56875 766.5809 487.04825 800 545.40625 800 C 575.70225 800 609.82275 799.9993 642.34375 767 L 612 711.15625 C 563.8 741.68345 513.293 732.47785 508 669.15625 C 501.73047 594.15829 500.40734 546.52322 513.46875 465.21875 C 558.49148 464.86812 604.04028 462.93891 653.375 459.03125 L 653.40625 383.09375 C 611.41004 386.82673 570.26584 389.15553 527.59375 389.84375 C 538.17434 338.828 552.7804 275.7989 572.59375 193.5 L 501.40625 191.53125 z "
+       id="path11158" />
+  </g>
+</svg>

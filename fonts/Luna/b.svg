@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg4439"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="New document 20">
+  <defs
+     id="defs5498" />
+  <sodipodi:namedview
+     inkscape:window-height="618"
+     inkscape:window-width="641"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.454"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:current-layer="layer1"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="200"
+       id="guide5596" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4416"
+       d="m 370.97269,52.8437 c 72.0735,0.3355 75.0336,143.0068 74.375,241.125 -0.4445,66.2251 6.4129,105.5875 61.2187,108.2813 54.8059,2.6938 130.4092,14.7179 171.7813,79.6562 41.3721,64.9384 17.9974,204.0783 -13.1563,245.0625 C 634.03769,767.953 600.17819,800 532.28519,800 c -67.893,0 -65.693,-23.9375 -96.8125,-23.9375 -31.1195,0 4.4418,23.9375 -67.625,23.9375 -72.0668,0 -69.1922,-254.1482 -72.125,-399 -2.9328,-144.8519 -0.211,-346.2233 73.5312,-348.1563 0.5762,-0.015 1.1513,0 1.7188,0 z m 142.1562,459.0938 c -51.5837,-0.4091 -70.5312,43.3527 -70.5312,93.0312 0,51.2811 43.0238,89.0395 77.5312,87.125 34.5075,-1.9144 77.5625,-35.8439 77.5625,-87.125 0,-51.281 -24.0326,-89.4386 -79.4687,-92.8437 -1.7324,-0.1064 -3.4298,-0.1743 -5.0938,-0.1875 z"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>
